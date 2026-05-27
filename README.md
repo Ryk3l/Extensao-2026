@@ -1,4 +1,4 @@
-# Rodovia Lanches — Documentação do Projeto
+# Gerenciador de fluxo para lanchonetes — Documentação do Projeto
 
 Projeto acadêmico desenvolvido para a disciplina de Trabalho de Conclusão de Curso.
 Trata-se de um sistema web para gerenciamento de uma lanchonete, contemplando o
